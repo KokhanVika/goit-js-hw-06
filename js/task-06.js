@@ -11,5 +11,6 @@ if (event.currentTarget.value.length >= input.dataset.length)
     input.classList.remove('valid');
     input.classList.add('invalid');
   }
+  
 };
 

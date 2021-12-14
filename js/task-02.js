@@ -20,3 +20,9 @@ const makeIngredientList = ingredientsList => {
 const elements = makeIngredientList(ingredients);
 listEl.append(...elements);
 
+
+
+
+
+
+
